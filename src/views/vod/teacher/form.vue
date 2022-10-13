@@ -39,7 +39,7 @@
   </div>
 </template>
 <script>
-// eslint-disable-next-line no-unused-vars
+// eslint-disable-next-line  no-unused-vars
 import teacherAip from '@/api/vod/teacher'
 export default {
   data() {
